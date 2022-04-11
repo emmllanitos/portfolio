@@ -10,6 +10,8 @@
     </script>
 </head>
 <body>
+
+<?php phpinfo() ?>
     
 </body>
 </html>
