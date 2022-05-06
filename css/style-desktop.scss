@@ -1,0 +1,22 @@
+:root {
+  --fondo-body: #f8f8f8;
+  --verde-claro: #2fbebc;
+  --amarillo: #ffcd00;
+  --azul: #003087;
+  --rojo: #c8102e;
+  --borde: #e7e7e7;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.html {
+  font-size: 62.5%;
+}
+
+body{
+    background-color: --rojo;
+}
